@@ -7,8 +7,8 @@ TaskHandle_t break_Handle = NULL;
 TaskHandle_t accel_Handle = NULL;
 TaskHandle_t button_Handle = NULL;
 
-const char *ssid = "Resaux Bruyere";
-const char *password = "Bruyere55";
+const char *ssid = "0";
+const char *password = "0";
 boolean OTA = false;
 
 void setup()
